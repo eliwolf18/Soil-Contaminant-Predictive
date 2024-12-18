@@ -3,5 +3,4 @@ dash-bootstrap-components
 pandas
 joblib
 scikit-learn==1.2.2
-gunicorn
 numpy==1.26.4
