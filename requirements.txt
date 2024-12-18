@@ -2,5 +2,5 @@ dash
 dash-bootstrap-components
 pandas
 joblib
-scikit-learn
+scikit-learn==1.2.2
 gunicorn
